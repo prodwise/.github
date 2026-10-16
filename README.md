@@ -1,3 +1,5 @@
-# Our mission
+# Hulahoop
 
-Solutions for testing and cost optimisation in the ML space.
+This is the public GitHub organization for [hulahoop.ai](https://hulahoop.ai).
+
+The organization profile lives in [`profile/README.md`](profile/README.md).
